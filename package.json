@@ -1,0 +1,34 @@
+{
+    "name": "filemock",
+    "version": "1.0.0",
+    "description": "CLI tool to generate mock test files for QA and development",
+    "main": "dist/index.js",
+    "bin": {
+        "filemock": "./dist/cli.js"
+    },
+    "scripts": {
+        "build": "tsc",
+        "prepublishOnly": "npm run build"
+    },
+    "keywords": [
+        "filemock",
+        "test-files",
+        "mock",
+        "qa",
+        "testing",
+        "file-generator",
+        "cli"
+    ],
+    "author": "maxlibin",
+    "license": "MIT",
+    "files": [
+        "dist"
+    ],
+    "dependencies": {
+        "commander": "^14.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "^20.0.0",
+        "typescript": "^5.0.0"
+    }
+}
