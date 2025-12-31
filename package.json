@@ -21,6 +21,14 @@
     ],
     "author": "maxlibin",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/maxlibin/filemock-cli.git"
+    },
+    "homepage": "https://github.com/maxlibin/filemock-cli#readme",
+    "bugs": {
+        "url": "https://github.com/maxlibin/filemock-cli/issues"
+    },
     "files": [
         "dist"
     ],
