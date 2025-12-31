@@ -1,5 +1,5 @@
 {
-    "name": "filemock",
+    "name": "@maxlibin/filemock",
     "version": "1.0.0",
     "description": "CLI tool to generate mock test files for QA and development",
     "main": "dist/index.js",
