@@ -2,24 +2,31 @@
 # yarn lockfile v1
 
 
+"@maxlibin/filemock@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/@maxlibin/filemock/-/filemock-1.0.0.tgz"
+  integrity sha512-qea+mXqvETnlAYRTjYa/Lx4k5NAcuD1Owlh15ymPNy7wKFq/9OIxV1R3RDfVBEXV7Gz5k1BbCyHg5pdSbdg1xw==
+  dependencies:
+    commander "^14.0.0"
+
 "@types/node@^20.0.0":
   version "20.19.27"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.19.27.tgz#d51333f77953a5e4e71d3b5aefa83ec5297fbb80"
+  resolved "https://registry.npmjs.org/@types/node/-/node-20.19.27.tgz"
   integrity sha512-N2clP5pJhB2YnZJ3PIHFk5RkygRX5WO/5f0WC08tp0wd+sv0rsJk3MqWn3CbNmT2J505a5336jaQj4ph1AdMug==
   dependencies:
     undici-types "~6.21.0"
 
 commander@^14.0.0:
   version "14.0.2"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-14.0.2.tgz#b71fd37fe4069e4c3c7c13925252ada4eba14e8e"
+  resolved "https://registry.npmjs.org/commander/-/commander-14.0.2.tgz"
   integrity sha512-TywoWNNRbhoD0BXs1P3ZEScW8W5iKrnbithIl0YH+uCmBd0QpPOA8yc82DS3BIE5Ma6FnBVUsJ7wVUDz4dvOWQ==
 
 typescript@^5.0.0:
   version "5.9.3"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.9.3.tgz#5b4f59e15310ab17a216f5d6cf53ee476ede670f"
+  resolved "https://registry.npmjs.org/typescript/-/typescript-5.9.3.tgz"
   integrity sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw==
 
 undici-types@~6.21.0:
   version "6.21.0"
-  resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-6.21.0.tgz#691d00af3909be93a7faa13be61b3a5b50ef12cb"
+  resolved "https://registry.npmjs.org/undici-types/-/undici-types-6.21.0.tgz"
   integrity sha512-iwDZqg0QAGrg9Rav5H4n0M64c3mkR59cJ6wQp+7C4nI0gsmExaedaYLNO44eT4AtBBwjbTiGPMlt2Md0T9H9JQ==
