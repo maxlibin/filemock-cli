@@ -5,7 +5,7 @@ Generate mock test files for QA and development.
 ## Installation
 
 ```bash
-npm install -g filemock
+npm install -g @maxlibin/filemock
 ```
 
 ## Usage
